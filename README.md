@@ -10,7 +10,7 @@ Supporting tools and libraries include:
 - **matplotlib** and **seaborn** for visualization  
 
 You can interact with the model through our deployed **Streamlit web app** here:  
-👉 [Launch the Heart Disease Prediction App](https://team-heartbits-heart-disease-prediction-app.streamlit.app/)  
+👉 [Launch the Heart Disease Prediction App](https://heartbits-heartdiseasepredictionapp-hw7zu2katgtci5w489bmw.streamlit.app/)  
 
 Our goal is to continuously **enhance the app**, improve its **predictive accuracy**, and integrate **new interactive features** for better insights and usability.  
 
