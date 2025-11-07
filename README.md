@@ -1,5 +1,21 @@
-# Team-HeartBits-Heart_Disease_Prediction_APP
-This project implements a machine learning model to predict the likelihood of heart disease in patients based on clinical data. The model uses a dataset from a csv file containing features such as age, sex, chest pain type, resting blood pressure, cholesterol levels, and more. The goal is to classify whether a patient has heart disease (binary classification: presence or absence). The model is built using Python with libraries like scikit-learn for machine learning, pandas for data handling, and matplotlib/seaborn for visualization. This README provides a step-by-step guide to understanding, replicating, and using the model.
+# 💓 Team HeartBits — Heart Disease Prediction App  
+
+This project applies **machine learning and statistical analysis** to predict the likelihood of heart disease based on patients’ clinical data. Using features such as **age**, **sex**, **chest pain type**, **resting blood pressure**, **cholesterol levels**, and more, the model performs a **binary classification** to determine the **presence (1)** or **absence (0)** of heart disease.  
+
+The predictive model is powered by a **Random Forest Classifier**, built using **scikit-learn**.  
+Supporting tools and libraries include:  
+- **statistics** for exploratory and descriptive data analysis  
+- **scikit-learn** for model building and evaluation  
+- **pandas** for data manipulation  
+- **matplotlib** and **seaborn** for visualization  
+
+You can interact with the model through our deployed **Streamlit web app** here:  
+👉 [Launch the Heart Disease Prediction App](https://team-heartbits-heart-disease-prediction-app.streamlit.app/)  
+
+Our goal is to continuously **enhance the app**, improve its **predictive accuracy**, and integrate **new interactive features** for better insights and usability.  
+
+This provides a step-by-step guide to understanding, replicating and using the model effectively:  
+
 # Prerequisites
 Python 3.x
 Required libraries:
@@ -68,6 +84,6 @@ Incorporate more advanced models or neural networks.
 Add real-time data integration and compatibility with .
 Deploy to cloud platforms like Heroku or AWS.
 # Contributing
-Contributions are welcome! Please fork the repo and submit a pull request.
+Contributions are welcome!
 # License
 MIT License - Feel free to use and modify.
